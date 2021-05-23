@@ -1,0 +1,96 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner-container {
+    background-color: #CACACA;
+}
+
+.banner-column {
+    background-color: #8D8D8D;    
+}
+
+.navbar-container {  
+    top: 0%;  
+    background-color: #262B37;
+    position: sticky;
+    z-index: 1;
+
+} 
+
+.about-container{
+    background-color: #00bdbd;
+}
+.nav-link {
+    color: white !important;
+}
+
+span.navbar-toggler-icon {
+    background-color: white;
+    
+}
+
+.education-container {
+    background-color: #EEEEEE;
+}
+
+.redtype {
+    color: #FB857F;
+} 
+
+.project-container {
+    background-color: #2BB3DD;
+}
+
+.imgdec{
+    text-decoration: none;
+    
+}
+
+.form-container {
+    background-color: #474D5D;
+}
+
+.ineer-form {
+    background-color: #585F73;
+}
+
+.btn-info:hover{
+ color: red !important;
+}
+
+.footer {
+    background-color: #2BB3DD;
+}
+
+.circle {
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color: #2BB3DD;
+    transition: .7s;
+}
+
+.circle:hover {
+    background-color: #474D5D;
+}
+
+.project-container{
+    padding-bottom: 40px;
+    margin-top: 40px;
+}
+
+.antorpaul{
+    text-decoration: none;
+    color: white;
+    transition: .7s;
+}
+
+.antorpaul:hover{
+    color: red;
+    
+}
